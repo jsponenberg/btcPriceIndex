@@ -65,4 +65,6 @@ func main() {
 			fmt.Printf("Yesterday's price of bitcoin was $%f.\n", value.(float64))
 		}
 	}
+
+	fmt.Println("Results Powered by CoinDesk.")
 }
